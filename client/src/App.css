@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  color: white;
+}
+.wrapper {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.input {
+  margin-right: 10px;
+}
+.frame {
+  width: 40vw;
+  max-width: 400px;
+}
+.header {
+  display: inline;
+  text-align: center;
+}
+.list-wrapper {
+  max-height: 200px;
+}
+.mainHead {
+  color: aqua;
+  font-size: 30px;
+  text-decoration: underline;
+}
+.operationHead {
+  font-size: 20px;
+  color: greenyellow;
+}
+.labelsect {
+  text-align: center;
+}
+.login-form {
+  background-color: #35528c;
+  display: block;
+  border-style: solid;
+  border-radius: 10px;
+  width: 30%;
+  height: 200px;
+  margin: auto;
+}
